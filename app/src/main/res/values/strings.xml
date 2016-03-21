@@ -21,5 +21,8 @@
     <string name="title_activity_detail">Monthly Prices</string>
     <string name="hello_world"></string>
 
+    <string name="button_add_stock">Add Stock</string>
+
+
     <string name="chart_label">Stock</string>
 </resources>
